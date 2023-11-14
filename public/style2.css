@@ -1,0 +1,42 @@
+header {
+    background-color: #EAC926;
+}
+.buscar{
+    background-color: white;
+    color:gray
+}
+a{
+    text-decoration:none;
+    color:black;
+   
+}
+ul{
+    list-style-type:none;
+}
+.fa-bars{
+    
+    color: white;
+    background-color: #1259c3;
+   
+}
+i.fa-credit-card{
+    color: #1259c3;
+}
+i.fa-gift {
+    color: #1259c3
+}
+i.fa-user-shield{
+    color: #1259c3
+}
+footer{
+    color: #666;
+}
+.titulo{
+    color:#666
+}
+.descuento,.fa-truck{
+    color:#39b54a;
+}
+main{
+    background-color: #ebebeb;
+}
